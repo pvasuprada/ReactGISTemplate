@@ -1,7 +1,7 @@
-## Install Node
+### Install Node
 
-## Do npm i
+### Do npm i
 
-## Do npm start
+### Do npm start
 
-## To build, Do npm run build.
+### To build, Do npm run build.
